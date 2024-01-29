@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #bbb;
+}
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+input{
+  margin: 10px;
+  font-size: 18px;
+}
